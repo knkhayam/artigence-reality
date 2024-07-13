@@ -1665,7 +1665,6 @@ input::-moz-focus-inner {
     transform: translateY(0);
   }
   .header-logo img {
-    width: 120px;
     height: 34px;
   }
   .s-header.sticky .header-logo {
